@@ -1,6 +1,6 @@
 # Note this workflow is only maintained in this repo
 # It should be invoked from each chart's repo
-#
+# 
 # This invokes the workflow named 'publish-charts' in the umbrella repo
 # It expects to have a secret called UMBRELLA_REPO_PAT which contains
 # the GitHub token that has permissions to invoke workflows and commit code
