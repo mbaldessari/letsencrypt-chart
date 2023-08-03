@@ -44,7 +44,7 @@ jobs:
             exit 1
           fi
 
-      - name: Invoke publish-chart.yml in charts-test repo
+      - name: Invoke publish-chart.yml in charts-test repository
         id: update
         env:
           GH_TOKEN: ${{ secrets.CHARTS_REPOS_TOKEN }}
