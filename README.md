@@ -68,3 +68,4 @@ chart in order to request CA signed certificates in a Validated Pattern
 | `letsencrypt.certmanagerChannel` | String the channel to install cert-manager from (Defaults to "stable-v1")                                             | `stable-v1`                                              |
 foo
 foo
+foo
