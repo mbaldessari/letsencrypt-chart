@@ -69,3 +69,4 @@ chart in order to request CA signed certificates in a Validated Pattern
 foo
 foo
 foo
+foo
