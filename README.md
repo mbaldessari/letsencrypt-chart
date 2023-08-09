@@ -66,3 +66,4 @@ chart in order to request CA signed certificates in a Validated Pattern
 | `letsencrypt.renewBefore`        | How long before expiration date should the certs be renewed (Defaults to 28h0m0s)                                     | `28h0m0s`                                                |
 | `letsencrypt.nameservers`        | List of DNS server (ip:port strings) to be used when doing DNS01 challenges (Defaults to [8.8.8.8:53, 1.1.1.1:53])    | `["8.8.8.8:53","1.1.1.1:53"]`                            |
 | `letsencrypt.certmanagerChannel` | String the channel to install cert-manager from (Defaults to "stable-v1")                                             | `stable-v1`                                              |
+foo
